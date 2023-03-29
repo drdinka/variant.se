@@ -87,12 +87,8 @@ const Stockholm: NextPage<InferGetStaticPropsType<typeof getStaticProps>> = ({
               <PageTitle title="Hej, en ny Variant i Stockholm!" element="h2" />
             </header>
             <p className="lead">
-              I 2023 etablerar vi ett helt nytt konsultföretag i Stockholm – med
-              ett nytt tänkesätt och värdegrund. Variant är fristående och
-              oberoende, grundlagt i Norge och med en unik infallsvinkel till
-              utveckling och design inom konsultbranschen. Vill du vara med och
-              forma ett lite annorlunda företag? Just nu söker vi efter den som
-              ska styra skutan, eller VD som ni säger i Sverige.
+              Hej! Vi är Variant, en lite annorlunda konsultbyrå.
+IT-projekt borde inte börja i designskisser, kod eller infrastruktur, utan i samarbete och viljan att skapa positiv förändring. Vi tror att tech, design och strategi samarbetar som bäst när vi är kreativa, öppna och tillsammans formar förändring! Där finns vi, en ny Variant av digital byrå som är transparent, generös och nyfiken.
             </p>
             <p>
               Läs mer om oss och våra värderingar i{" "}
